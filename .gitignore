@@ -1,0 +1,5 @@
+# Ignore 
+/home/romancampbell/python_code/youtube_creds/client_secret.json
+/home/romancampbell/python_code/youtube_creds/token.json
+/home/romancampbell/python_code/youtube_parental_controller/__pycache__
+/home/romancampbell/python_code/youtube_parental_controller/quickstart.py
